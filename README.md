@@ -1,75 +1,280 @@
+<div align="center">
+
 # 👋 Hi, I'm Lakshya Jain
 
-### Software Engineer | Backend Developer | ML Engineer
+### Software Engineer · Backend Developer · ML Engineer
 
-> 💻 Computer Science undergraduate building backend systems, full-stack applications and practical ML solutions.
+Building **backend systems, full-stack applications & practical ML solutions.**
 
-* 🎓 B.Tech CSE @ Teerthanker Mahaveer University
-* 🔭 Interested in **Backend, Full-Stack, Cloud & Machine Learning**
-* 🏆 Hackathon & National Tech Day winner
-* 🌱 Always learning and building
+<p align="center">
+  <a href="https://github.com/lakshyajainLJ">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/lakshyajainlj">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://lakshya579-portfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:lakshyajain579@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
+
+</div>
 
 ---
+## 🚀 Highlights
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+🎓<br>
+<b>Education</b><br><br>
+B.Tech CSE<br>
+<sub>Teerthanker Mahaveer University</sub><br>
+<b>8.67 / 10</b>
+
+</td>
+
+<td align="center" width="25%">
+
+💻<br>
+<b>Focus</b><br><br>
+Backend Development<br>
+<sub>Full-Stack · APIs · Cloud · ML</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🤖<br>
+<b>Experience</b><br><br>
+AI & ML<br>
+<sub>Unified Mentor · Edunet Foundation</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🏆<br>
+<b>Achievements</b><br><br>
+Hackathon Winner<br>
+<sub>National Tech Day · KHOJ</sub>
+
+</td>
+</tr>
+</table>
+
+---
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,flask,spring,mongodb,postgres,redis,kafka,tensorflow,git,github" />
-</p>
+<table>
+<tr>
+<td width="22%"><b>💻 Languages</b></td>
+<td>
 
-<p>
-<img src="https://img.shields.io/badge/REST%20API-orange?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🌐 Frontend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 ML & Data</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ Tools & Systems</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🔐 Concepts</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/REST_APIs-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
 <img src="https://img.shields.io/badge/OAuth-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/CI%2FCD-purple?style=flat-square" />
+
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🏥 NextIn
 
-Healthcare platform using **React, Spring Boot, MongoDB, Kafka, Redis & JWT**.
+**Healthcare Management Platform**
+
+`React` `Spring Boot`
+`MongoDB` `Kafka` `Redis` `JWT`
+
+* 500+ daily patient records
+* 1,000+ events/min
+* JWT role-based access control
+* Redis-powered performance optimization
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛒 ShopZen
 
-Full-stack e-commerce platform using **React, TypeScript, Flask, MongoDB & JWT**.
+**Full-Stack E-Commerce Platform**
+
+`React` `TypeScript`
+`Flask` `MongoDB` `JWT`
+
+* Authentication & authorization
+* Product search & filtering
+* Cart & wishlist
+* Admin dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎓 OASYS
 
-Alumni & university management platform using **React, TypeScript, Flask & MongoDB**.
+**Alumni & University Platform**
+
+`React` `TypeScript`
+`Flask` `MongoDB` `REST API`
+
+* Alumni networking
+* Profile management
+* Events
+* University dashboards
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Fraud Detection
 
-Machine learning project using **Python, Scikit-learn, Pandas & NumPy**.
+**Machine Learning System**
 
----
+`Python` `Scikit-learn`
+`Pandas` `NumPy`
 
-## 📊 GitHub Stats
+* Feature engineering
+* Fraud classification
+* Random Forest & Gradient Boosting
+* ROC-AUC & F1 evaluation
 
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshyajainLJ&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajainLJ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 National Tech Day Showcase
-🥇 KHOJ University Hackathon
-🥉 Internal Hackathon 2025
-🏅 NPTEL Cloud Computing — Elite
+<table>
+<tr>
+<td align="center">🥇<br><b>National Tech Day</b><br>1st Place</td>
+<td align="center">🥇<br><b>KHOJ Hackathon</b><br>1st Place</td>
+<td align="center">🥉<br><b>Internal Hackathon</b><br>3rd Place</td>
+<td align="center">🏅<br><b>NPTEL Cloud</b><br>Elite</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect
+## 💼 Experience
 
-[LinkedIn](https://linkedin.com/in/lakshyajainlj) ·
-[Portfolio](https://lakshya579-portfolio.vercel.app) ·
-[GitHub](https://github.com/lakshyajainLJ) ·
-[Email](mailto:lakshyajain579@gmail.com)
+**Machine Learning Intern — Unified Mentor**
+`March 2025 – June 2025` · ML Models · TensorFlow · Scikit-learn
+
+**Emerging Technologies Intern — Edunet Foundation**
+`July 2025 – August 2025` · AI · Cloud Computing · IBM Cloud
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/lakshyajainlj">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/lakshyajainLJ">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://lakshya579-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="mailto:lakshyajain579@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
 
 > **Build. Learn. Solve. Repeat.**
+
+</div>
